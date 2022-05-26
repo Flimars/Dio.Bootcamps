@@ -2,28 +2,28 @@
 Bootcamps - Apendendo de forma imersiva aulas, desafios e projetos para acelerar a carreira.
 
 # .NET Fundamentals:
-   * 7 Cursos 
-      > Desenvolvimento Web - Primeiros passos
+   * **7 Cursos** 
+      > _Desenvolvimento Web - Primeiros passos_
       
-      > Lógica de Programação - Essencial
+      > _Lógica de Programação - Essencial_
       
-      > Introdução ao Git e GitHub
+      > _Introdução ao Git e GitHub_
       
-      > Primeiros passos com .NET
+      > _Primeiros passos com .NET_
       
-      > Orientação a objeto em .NET
+      > _Orientação a objeto em .NET_
       
-      > SQL SERVER - Criando suas primeiras consultas
+      > _SQL SERVER - Criando suas primeiras consultas_
       
-   * 3 Desafios       
-      > Introdução a Programação com C#
+   * **3 Desafios**       
+      > _Introdução a Programação com C#_
       
-      > Introdução a Programação com >NET
+      > _Introdução a Programação com >NET_
       
-      > Solução de Problemas com .NET
+      > _Solução de Problemas com .NET_
    
-   * 2 Projetos
-      > Criando uma aplicação de transferências bancárias com .NET
+   * **2 Projetos**
+      > _Criando uma aplicação de transferências bancárias com .NET_
 
-      > Criando um APP simples de cadastro de séries em .NET
+      > _Criando um APP simples de cadastro de séries em .NET_
       
