@@ -9,6 +9,7 @@ namespace DIO.Series
     private string Title { get; set; }
     private string Description { get; set; }
     private int Year { get; set; }
+    private bool Exclude { get; set; }
 
     //Construtor
     public Serie(int id, Gender gender, string title, string description, int year)
@@ -32,7 +33,7 @@ namespace DIO.Series
 
       giveBack += "Descrição: " + this.Description + Environment.NewLine;
 
-      giveBack += "Ano  de Estreia: " + this.Year;
+      giveBack += "Ano de Exibição: " + this.Year;
 
       giveBack += "Excluido: " + this.Exclude;
 
@@ -53,7 +54,7 @@ namespace DIO.Series
       return this.Exclude;
     }
 
-    public void Exclude()
+    public void ToExclude()
     {
       this.Exclude = true;
     }

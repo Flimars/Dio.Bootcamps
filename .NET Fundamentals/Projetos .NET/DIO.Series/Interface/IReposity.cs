@@ -14,6 +14,6 @@ namespace DIO.Series.Interfaces
 
     void Update(int id, T entity);
 
-    int Next();
+    int NextId();
   }
 }

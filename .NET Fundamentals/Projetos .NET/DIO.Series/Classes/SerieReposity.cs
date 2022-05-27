@@ -10,7 +10,7 @@ namespace DIO.Series
 
     public void Exclude(int id)
     {
-      listSerie[id].Exclude();
+      listSerie[id].ToExclude();
     }
 
     public Serie GiveBackById(int id)
@@ -28,7 +28,7 @@ namespace DIO.Series
       return listSerie;
     }
 
-    public int Next()
+    public int NextId()
     {
       return listSerie.Count;
     }
