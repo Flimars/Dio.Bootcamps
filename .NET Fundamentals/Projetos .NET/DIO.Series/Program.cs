@@ -1,12 +1,12 @@
 ﻿using System;
 
 namespace DIO.Series
+
+class Program
 {
-  class Program
+  static void Main(string[] args)
   {
-    static void Main(string[] args)
-    {
-      Serie myObject = new Serie();
-    }
+    Serie myObject = new Serie();
+    myObject.Id
   }
 }

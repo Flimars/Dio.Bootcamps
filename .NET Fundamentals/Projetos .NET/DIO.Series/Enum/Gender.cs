@@ -1,6 +1,6 @@
 namespace DIO.Series
 {
-  public enum Genero
+  public enum Gender
   {
     Acao = 1,
 
@@ -12,7 +12,7 @@ namespace DIO.Series
 
     Drama = 5,
 
-    Espianagem = 6,
+    Espionagem = 6,
 
     Faroeste = 8,
 

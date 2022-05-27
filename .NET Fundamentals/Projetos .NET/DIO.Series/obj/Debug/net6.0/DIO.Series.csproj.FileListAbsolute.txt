@@ -1,0 +1,5 @@
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache

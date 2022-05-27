@@ -1,6 +1,7 @@
 {
   "version": "0.2.0",
   "configurations": [
+    
     {
       // Use IntelliSense to find out which attributes exist for C# debugging
       // Use hover for the description of the existing attributes
@@ -10,9 +11,9 @@
       "request": "launch",
       "preLaunchTask": "build",
       // If you have changed target frameworks, make sure to update the program path.
-      "program": "${workspaceFolder}/.NET Fundamentals/Projetos .NET/DIO.Series/bin/Debug/net6.0/DIO.Series.dll",
+      "program": "${workspaceFolder}/bin/Debug/net6.0/DIO.Series.dll",
       "args": [],
-      "cwd": "${workspaceFolder}/.NET Fundamentals/Projetos .NET/DIO.Series",
+      "cwd": "${workspaceFolder}",
       // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
       "console": "externalTerminal",
       "stopAtEntry": false,
