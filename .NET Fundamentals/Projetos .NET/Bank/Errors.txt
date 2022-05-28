@@ -1,0 +1,94 @@
+[{
+"resource": "/c:/dotnet_2022/Dio/Bank/Program.cs",
+"proprietário": "msCompile",
+"código": "CS0119",
+"gravidade": 8,
+"message": "'AccountType' é um tipo que não é válido no contexto fornecido [C:\\dotnet_2022\\Dio\\",
+"startLineNumber": 129,
+"startColumn": 23,
+"fimLineNumber": 129,
+"fimColuna": 23
+}]
+
+
+# Solução do problema:
+Mudar os nomes das propriedades de camelCase (name, balance, credit accountType) para PascalCase(Name, Balance, Credit, AccountType),
+
+private static void insertAccount()
+    {
+      Console.WriteLine("Inserir nova conta");
+
+      Console.WriteLine("Digite 0 para Conta Poupança | Digite 2 para Conta Física | Digite 3 para Conta Jurídica:");
+      AccountType accountTypeEntry = (AccountType)Enum.Parse(typeof(AccountType), Console.ReadLine());
+
+      Console.WriteLine("Digite o Nome do Cliente:");
+      string nameEntry = Console.ReadLine();
+
+      Console.WriteLine("Digite o Saldo Inicial:");
+      double balanceEntry = double.Parse(Console.ReadLine());
+
+      Console.WriteLine("Digite o Crédito:");
+      double creditEntry = double.Parse(Console.ReadLine());
+
+      var createNewAccount = new Account(name: nameEntry,
+        credit: creditEntry,
+        balance: balanceEntry,
+        accountType: accountTypeEntry);
+
+      listAccounts.Add(createNewAccount);
+    }
+
+# [{
+#  "resource": "/c:/dotnet_2022/Dio/Bank/Classes/account.cs",
+#  "proprietário": "csharp",
+#  "código": "CS1061",
+#  "gravidade": 8,
+#  "message": "'Account' não contém uma definição para 'AccountType' e nenhum método de extensão acessível 'AccountType' aceitando um # # #primeiro argumento do tipo 'Account' pôde ser encontrado (está faltando uma diretiva using ou uma referência de assembly?) [Banco]",
+#  "source": "csharp",
+#  "startLineNumber": 17,
+#  "startColumn": 12,
+#  "fimLineNumber": 17,
+#  "fimColuna": 23
+#  }]
+  
+  #   [{
+  #     "resource": "/c:/dotnet_2022/Dio/Bank/Classes/account.cs",
+  #     "proprietário": "csharp",
+  #     "código": "CS1061",
+  #     "gravidade": 8,
+  #     "message": "'Account' não contém uma definição para 'AccountType' e nenhum método de extensão acessível 'AccountType' aceitando um primeiro argumento do tipo 'Account' pôde ser encontrado (está faltando uma diretiva using ou uma referência de assembly?) [Banco]",
+  #  "source": "csharp",
+  #   "startLineNumber": 17,    
+  #   "startColumn": 12,  
+  #   "fimLineNumber": 17,  
+  #   "fimColuna": 23  
+  #  }]  
+    
+  #  [{
+  #  "resource": "/C:/dotnet_2022/Dio/Bank/Program.cs",
+  #  "proprietário": "csharp",
+  #  "código": "CS1739",
+  #  "gravidade": 8,
+  #  "message": "A melhor sobrecarga para 'Account' não tem um parâmetro chamado 'AccountType' [Bank]",
+  #  "source": "csharp",
+  #  "startLineNumber": 129,
+  #  "startColumn": 9,
+  #  "fimLineNumber": 129,
+  #  "fimColuna": 20
+  #  }]
+    
+    
+  #  [{
+  #  "resource": "/C:/dotnet_2022/Dio/Bank/Program.cs",
+  #  "proprietário": "csharp",
+  #  "código": "CS0103",
+  #  "gravidade": 8,
+  #  "message": "O nome 'accountType' não existe no contexto atual [Banco]",
+  #  "source": "csharp",
+  #  "startLineNumber": 129,
+  #  "startColumn": 23,
+  #  "fimLineNumber": 129,
+  #  "fimColuna": 34
+  #  }]        
+
+          

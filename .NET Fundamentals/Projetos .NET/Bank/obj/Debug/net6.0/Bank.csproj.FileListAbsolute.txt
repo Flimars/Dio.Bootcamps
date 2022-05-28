@@ -1,0 +1,30 @@
+C:\dotnet_2022\Dio\Bank\bin\Debug\net6.0\Bank.exe
+C:\dotnet_2022\Dio\Bank\bin\Debug\net6.0\Bank.deps.json
+C:\dotnet_2022\Dio\Bank\bin\Debug\net6.0\Bank.runtimeconfig.json
+C:\dotnet_2022\Dio\Bank\bin\Debug\net6.0\Bank.dll
+C:\dotnet_2022\Dio\Bank\bin\Debug\net6.0\Bank.pdb
+C:\dotnet_2022\Dio\Bank\obj\Debug\net6.0\Bank.csproj.AssemblyReference.cache
+C:\dotnet_2022\Dio\Bank\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet_2022\Dio\Bank\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+C:\dotnet_2022\Dio\Bank\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+C:\dotnet_2022\Dio\Bank\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+C:\dotnet_2022\Dio\Bank\obj\Debug\net6.0\Bank.dll
+C:\dotnet_2022\Dio\Bank\obj\Debug\net6.0\refint\Bank.dll
+C:\dotnet_2022\Dio\Bank\obj\Debug\net6.0\Bank.pdb
+C:\dotnet_2022\Dio\Bank\obj\Debug\net6.0\Bank.genruntimeconfig.cache
+C:\dotnet_2022\Dio\Bank\obj\Debug\net6.0\ref\Bank.dll
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Bank\bin\Debug\net6.0\Bank.exe
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Bank\bin\Debug\net6.0\Bank.deps.json
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Bank\bin\Debug\net6.0\Bank.runtimeconfig.json
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Bank\bin\Debug\net6.0\Bank.dll
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Bank\bin\Debug\net6.0\Bank.pdb
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Bank\obj\Debug\net6.0\Bank.csproj.AssemblyReference.cache
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Bank\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Bank\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Bank\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Bank\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Bank\obj\Debug\net6.0\Bank.dll
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Bank\obj\Debug\net6.0\refint\Bank.dll
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Bank\obj\Debug\net6.0\Bank.pdb
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Bank\obj\Debug\net6.0\Bank.genruntimeconfig.cache
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Bank\obj\Debug\net6.0\ref\Bank.dll
