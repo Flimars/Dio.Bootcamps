@@ -44,7 +44,8 @@ namespace DIO.Series
         userOption = captureUserOptions();
       }
 
-      private static void ListSeries()
+      /* private */
+      static void ListSeries()
       {
         Console.WriteLine("Listar séries");
 
@@ -64,7 +65,8 @@ namespace DIO.Series
         }
       }
 
-      private static void InsertSerie()
+      /* private */
+      static void InsertSerie()
       {
         Console.WriteLine("Inserir nova série");
 
@@ -97,7 +99,8 @@ namespace DIO.Series
         reposity.Insert(otherSerie);
       }
 
-      private static void UpdateSerie()
+      /* private */
+      static void UpdateSerie()
       {
         Console.WriteLine("Digite o código da série: ");
         int indexSerie = int.Parse(Console.ReadLine());
@@ -128,7 +131,8 @@ namespace DIO.Series
         reposity.Update(indexSerie, updateSerie);
       }
 
-      private static void ToViewSerie()
+      /* private */
+      static void ToViewSerie()
       {
         Console.WriteLine("Digite o código da série");
         int indexSerie = int.Parse(Console.ReadLine());
@@ -138,7 +142,8 @@ namespace DIO.Series
         Console.WriteLine(serie);
       }
 
-      private static void ExcludeSerie()
+      /* private */
+      static void ExcludeSerie()
       {
         Console.WriteLine("Digite o código da série");
         int indexSerie = int.Parse(Console.ReadLine());
@@ -146,7 +151,8 @@ namespace DIO.Series
         reposity.Exclude(indexSerie);
       }
 
-      private static string captureUserOptions()
+      /* private */
+      static string captureUserOptions()
       {
         Console.WriteLine();
         Console.WriteLine(" Thines Séries - Assista onde quiser.");
@@ -161,9 +167,9 @@ namespace DIO.Series
         Console.WriteLine("X- Sair");
         Console.WriteLine();
 
-        string opcaoUsuario = Console.ReadLine().ToUpper();
+        string userOption = Console.ReadLine().ToUpper();
         Console.WriteLine();
-        return opcaoUsuario;
+        return userOption;
       }
 
     }

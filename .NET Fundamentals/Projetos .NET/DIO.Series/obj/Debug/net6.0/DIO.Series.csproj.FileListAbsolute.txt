@@ -3,3 +3,13 @@ C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\DIO.Series\obj\Debug\
 C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
 C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
 C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\DIO.Series\obj\Debug\net6.0\refint\DIO.Series.dll
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
