@@ -24,7 +24,7 @@ using System;
 class Desafio {
     static void Main() {
         int quilometros = Int32.Parse(Console.ReadLine());
-        int minutos =         ; // Digite aqui o calculo dos minutos
+        int minutos = quilometos * 2; // Digite aqui o calculo dos minutos
         Console.WriteLine(minutos + " minutos");
     }
 }
