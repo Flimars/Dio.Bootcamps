@@ -1,6 +1,6 @@
 namespace Abstraindo_Jogo_de_RPG.src.entities
 {
-  public class Hero
+  public abstract class Hero
   {
     public string Name;
     public int Level;
