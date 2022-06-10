@@ -1,0 +1,15 @@
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstraindo Jogo de RPG\bin\Debug\net6.0\Abstraindo Jogo de RPG.exe
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstraindo Jogo de RPG\bin\Debug\net6.0\Abstraindo Jogo de RPG.deps.json
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstraindo Jogo de RPG\bin\Debug\net6.0\Abstraindo Jogo de RPG.runtimeconfig.json
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstraindo Jogo de RPG\bin\Debug\net6.0\Abstraindo Jogo de RPG.dll
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstraindo Jogo de RPG\bin\Debug\net6.0\Abstraindo Jogo de RPG.pdb
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstraindo Jogo de RPG\obj\Debug\net6.0\Abstraindo Jogo de RPG.csproj.AssemblyReference.cache
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstraindo Jogo de RPG\obj\Debug\net6.0\Abstraindo Jogo de RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstraindo Jogo de RPG\obj\Debug\net6.0\Abstraindo Jogo de RPG.AssemblyInfoInputs.cache
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstraindo Jogo de RPG\obj\Debug\net6.0\Abstraindo Jogo de RPG.AssemblyInfo.cs
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstraindo Jogo de RPG\obj\Debug\net6.0\Abstraindo Jogo de RPG.csproj.CoreCompileInputs.cache
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstraindo Jogo de RPG\obj\Debug\net6.0\Abstraindo Jogo de RPG.dll
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstraindo Jogo de RPG\obj\Debug\net6.0\refint\Abstraindo Jogo de RPG.dll
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstraindo Jogo de RPG\obj\Debug\net6.0\Abstraindo Jogo de RPG.pdb
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstraindo Jogo de RPG\obj\Debug\net6.0\Abstraindo Jogo de RPG.genruntimeconfig.cache
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstraindo Jogo de RPG\obj\Debug\net6.0\ref\Abstraindo Jogo de RPG.dll

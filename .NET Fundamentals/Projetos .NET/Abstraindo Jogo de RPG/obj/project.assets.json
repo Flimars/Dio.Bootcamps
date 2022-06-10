@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DotNet_22\\Dio.Bootcamps\\.NET Fundamentals\\Projetos .NET\\Abstaindo Jogo de RPG\\Abstaindo Jogo de RPG.csproj",
-      "projectName": "Abstaindo Jogo de RPG",
-      "projectPath": "C:\\DotNet_22\\Dio.Bootcamps\\.NET Fundamentals\\Projetos .NET\\Abstaindo Jogo de RPG\\Abstaindo Jogo de RPG.csproj",
+      "projectUniqueName": "C:\\DotNet_22\\Dio.Bootcamps\\.NET Fundamentals\\Projetos .NET\\Abstraindo Jogo de RPG\\Abstraindo Jogo de RPG.csproj",
+      "projectName": "Abstraindo Jogo de RPG",
+      "projectPath": "C:\\DotNet_22\\Dio.Bootcamps\\.NET Fundamentals\\Projetos .NET\\Abstraindo Jogo de RPG\\Abstraindo Jogo de RPG.csproj",
       "packagesPath": "C:\\Users\\Flavio Lima\\.nuget\\packages\\",
-      "outputPath": "C:\\DotNet_22\\Dio.Bootcamps\\.NET Fundamentals\\Projetos .NET\\Abstaindo Jogo de RPG\\obj\\",
+      "outputPath": "C:\\DotNet_22\\Dio.Bootcamps\\.NET Fundamentals\\Projetos .NET\\Abstraindo Jogo de RPG\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
