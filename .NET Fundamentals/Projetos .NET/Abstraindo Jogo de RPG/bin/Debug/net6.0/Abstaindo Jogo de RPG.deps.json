@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Abstaindo Jogo de RPG/1.0.0": {
+        "runtime": {
+          "Abstaindo Jogo de RPG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abstaindo Jogo de RPG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

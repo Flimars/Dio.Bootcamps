@@ -1,0 +1,15 @@
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstaindo Jogo de RPG\bin\Debug\net6.0\Abstaindo Jogo de RPG.exe
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstaindo Jogo de RPG\bin\Debug\net6.0\Abstaindo Jogo de RPG.deps.json
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstaindo Jogo de RPG\bin\Debug\net6.0\Abstaindo Jogo de RPG.runtimeconfig.json
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstaindo Jogo de RPG\bin\Debug\net6.0\Abstaindo Jogo de RPG.dll
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstaindo Jogo de RPG\bin\Debug\net6.0\Abstaindo Jogo de RPG.pdb
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstaindo Jogo de RPG\obj\Debug\net6.0\Abstaindo Jogo de RPG.csproj.AssemblyReference.cache
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstaindo Jogo de RPG\obj\Debug\net6.0\Abstaindo Jogo de RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstaindo Jogo de RPG\obj\Debug\net6.0\Abstaindo Jogo de RPG.AssemblyInfoInputs.cache
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstaindo Jogo de RPG\obj\Debug\net6.0\Abstaindo Jogo de RPG.AssemblyInfo.cs
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstaindo Jogo de RPG\obj\Debug\net6.0\Abstaindo Jogo de RPG.csproj.CoreCompileInputs.cache
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstaindo Jogo de RPG\obj\Debug\net6.0\Abstaindo Jogo de RPG.dll
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstaindo Jogo de RPG\obj\Debug\net6.0\refint\Abstaindo Jogo de RPG.dll
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstaindo Jogo de RPG\obj\Debug\net6.0\Abstaindo Jogo de RPG.pdb
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstaindo Jogo de RPG\obj\Debug\net6.0\Abstaindo Jogo de RPG.genruntimeconfig.cache
+C:\DotNet_22\Dio.Bootcamps\.NET Fundamentals\Projetos .NET\Abstaindo Jogo de RPG\obj\Debug\net6.0\ref\Abstaindo Jogo de RPG.dll
