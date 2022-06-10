@@ -1,27 +1,31 @@
 namespace Abstraindo_Jogo_de_RPG.src.entities
 {
-  public class Wizard : Hero  // Herdando da classe Hero.
+  public class Ninja : Hero
   {
-    public Wizard() { }
-    public Wizard(string Name, int Level, string HeroType)
+    public Ninja(string Name, int Level, string HeroType)
     {
       this.Name = Name;
       this.Level = Level;
       this.HeroType = HeroType;
     }
+
+    public Ninja()
+    {
+
+    }
     public override string Attack()  // Sobrescrevendo o Método Attack()
     {
-      return this.Name + " Lançou Magia!";
+      return this.Name + " Deferiu Golpe!";
     }
     public string Attack(int Bonus)  // Sobrescrevendo o Método Attack()
     {
       if (Bonus > 6)
       {
-        return this.Name + " Lançou Magia SUPER efetiva com bonus de " + Bonus;
+        return this.Name + " Deferiu SUPER golpe! Força efetiva com bonus de " + Bonus;
       }
       else
       {
-        return this.Name + " Lançou Magia fraca com bonus de " + Bonus;
+        return this.Name + "Deferiu golpe fraco. Força com bonus de " + Bonus;
       }
     }
   }

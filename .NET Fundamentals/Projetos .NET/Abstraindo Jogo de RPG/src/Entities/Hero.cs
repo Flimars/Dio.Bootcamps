@@ -21,5 +21,6 @@ namespace Abstraindo_Jogo_de_RPG.src.entities
     {
       return this.Name + " Empunhou a espada, efetuado ataque!";
     }
+    
   }
 }
