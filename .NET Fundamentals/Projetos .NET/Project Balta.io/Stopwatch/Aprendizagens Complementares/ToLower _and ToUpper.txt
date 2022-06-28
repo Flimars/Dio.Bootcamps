@@ -1,0 +1,6 @@
+
+ToLower()
+https://docs.microsoft.com/pt-br/dotnet/api/system.string.tolower?view=net-6.0
+
+ToUpper()
+https://docs.microsoft.com/pt-br/dotnet/api/system.string.toupper?view=net-6.0#system-string-toupper

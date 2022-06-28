@@ -1,0 +1,6 @@
+Thread.Sleep() - Método:
+https://docs.microsoft.com/pt-br/dotnet/api/system.threading.thread.sleep?view=net-6.0
+
+Outros Links Recomendados:
+https://www.macoratti.net/18/02/c_thrdtsk1.htm
+https://pt.stackoverflow.com/questions/261327/diferen%C3%A7a-entre-thread-sleep-e-task-delay

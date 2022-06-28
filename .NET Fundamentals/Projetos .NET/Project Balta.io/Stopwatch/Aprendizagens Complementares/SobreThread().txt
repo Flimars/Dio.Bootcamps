@@ -1,0 +1,22 @@
+Sobre a classe thread:
+https://docs.microsoft.com/pt-br/dotnet/api/system.threading.thread?view=net-6.0
+ 
+Usando Thread e Threading:
+https://docs.microsoft.com/pt-br/dotnet/standard/threading/using-threads-and-threading
+
+Criando Thread e passando dados na hora de início:
+https://docs.microsoft.com/pt-br/dotnet/standard/threading/creating-threads-and-passing-data-at-start-time
+
+Pausar e Interromper Threads:
+https://docs.microsoft.com/pt-br/dotnet/standard/threading/pausing-and-resuming-threads
+
+Agendando Threads:
+https://docs.microsoft.com/pt-br/dotnet/standard/threading/scheduling-threads
+
+Cancelar Threads:
+https://docs.microsoft.com/pt-br/dotnet/standard/threading/cancellation-in-managed-threads
+Cancelando de forma cooperativa:
+https://docs.microsoft.com/pt-br/dotnet/standard/threading/canceling-threads-cooperatively
+
+Práticas Recomendadas:
+https://docs.microsoft.com/pt-br/dotnet/standard/threading/managed-threading-best-practices
