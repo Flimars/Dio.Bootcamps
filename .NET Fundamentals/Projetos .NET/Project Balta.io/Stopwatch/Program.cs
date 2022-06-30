@@ -32,10 +32,22 @@ namespace Stopwatch
       {
         System.Environment.Exit(0);
       }
-      Start(time * multiplier);
-           
+      PreStart(time * multiplier);
+
     }
 
+    static void PreStart(int time)
+    {
+      Console.Clear();
+      System.Console.WriteLine("Ready...");
+      Thread.Sleep(900);
+      System.Console.WriteLine("Set...");
+      Thread.Sleep(900);
+      System.Console.WriteLine("GO...");
+      Thread.Sleep(2000);
+
+      Start(time);
+    }
     static void Start(int time)
     {
       int currentTime = 0;
